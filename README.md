@@ -1,3 +1,3 @@
-# travel_world
-website designed by html and css and js
+# tic_tac_toe_game
+game designed by html and css and js
 
